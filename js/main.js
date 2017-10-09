@@ -37,7 +37,6 @@ var $ = jQuery.noConflict();
         $mainContainerBorder.imagesLoaded( function(){
 
             var $container=$('.works-items.border').isotope({
-                filter: '.design',
                 itemSelector:'.one-item',
                 layoutMode: 'masonry',
                 masonry: {

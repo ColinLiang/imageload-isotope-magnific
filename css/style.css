@@ -225,7 +225,7 @@ and open the template in the editor.
 }
 /* line 1746, ../scss/style.scss */
 #main-wrap #bottom-wrap #works .works-items .one-item:hover:after {
-  opacity: 1;
+  opacity: 0.8;
   transition: opacity .5s ease;
 }
 /* line 1752, ../scss/style.scss */
